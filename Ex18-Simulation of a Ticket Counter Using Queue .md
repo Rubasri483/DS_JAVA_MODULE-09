@@ -20,11 +20,7 @@ RegisterNumber:  212224240139
 */
 ```
 ```java
-/*
-Program to functioning of a ticket counter that operates on a First-In-First-Out (FIFO)
-Developed by: HARSHIDA K S
-RegisterNumber:  212224040108
-*/
+
 import java.util.Scanner;
 class Node {
     String customerName;
