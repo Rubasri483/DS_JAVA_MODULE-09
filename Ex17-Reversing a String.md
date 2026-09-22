@@ -22,11 +22,7 @@ RegisterNumber:  212224240139
 */
 ```
 ```java
-/*
-Program to reverses an input string using a stack
-Developed by: HARSHIDA K S
-RegisterNumber:  212224040108
-*/
+
 import java.util.Scanner;
 import java.util.Stack;
 
